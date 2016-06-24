@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="9"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <MainUnitHasUsesSectionForAllUnits Value="False"/>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+      </Flags>
+      <MainUnit Value="0"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <i18n>
+      <EnableI18N LFM="False"/>
+    </i18n>
+    <VersionInfo>
+      <StringTable ProductVersion=""/>
+    </VersionInfo>
+    <BuildModes Count="1" Active="Default">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <IncludeFileFilter Value="*.(pas|pp|inc|lfm|lpr|lrs|lpi|lpk|sh|xml)"/>
+      <ExcludeFileFilter Value="*.(bak|ppu|o|so);*~;backup"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="1">
+      <Item1>
+        <PackageName Value="LCL"/>
+      </Item1>
+    </RequiredPackages>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="IntervalleBETA.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="IntervalleData.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="IntervalleData"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="34"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="34"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="UnitErsatzwerte.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UnitErsatzwerte"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="unitintervalle.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UnitIntervalle"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="847"/>
+        <CursorPos X="4" Y="866"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\Dokumente und Einstellungen\Bashiri-K\Desktop\IntervalleBETA.lpr"/>
+        <UnitName Value="IntervalleBETA"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="28" HistoryIndex="27">
+      <Position1>
+        <Filename Value="IntervalleBETA.lpr"/>
+        <Caret Line="377" Column="44" TopLine="320"/>
+      </Position1>
+      <Position2>
+        <Filename Value="IntervalleBETA.lpr"/>
+        <Caret Line="52" Column="79" TopLine="46"/>
+      </Position2>
+      <Position3>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="10" Column="3" TopLine="5"/>
+      </Position3>
+      <Position4>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="169" Column="46" TopLine="153"/>
+      </Position4>
+      <Position5>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="163" Column="3" TopLine="151"/>
+      </Position5>
+      <Position6>
+        <Filename Value="IntervalleBETA.lpr"/>
+        <Caret Line="87" Column="19" TopLine="72"/>
+      </Position6>
+      <Position7>
+        <Filename Value="IntervalleBETA.lpr"/>
+        <Caret Line="20" Column="1" TopLine="7"/>
+      </Position7>
+      <Position8>
+        <Filename Value="IntervalleBETA.lpr"/>
+        <Caret Line="223" Column="73" TopLine="208"/>
+      </Position8>
+      <Position9>
+        <Filename Value="IntervalleBETA.lpr"/>
+        <Caret Line="91" Column="19" TopLine="76"/>
+      </Position9>
+      <Position10>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="833" Column="24" TopLine="819"/>
+      </Position10>
+      <Position11>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="168" Column="19" TopLine="129"/>
+      </Position11>
+      <Position12>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="141" Column="3" TopLine="126"/>
+      </Position12>
+      <Position13>
+        <Filename Value="IntervalleBETA.lpr"/>
+        <Caret Line="56" Column="3" TopLine="41"/>
+      </Position13>
+      <Position14>
+        <Filename Value="IntervalleBETA.lpr"/>
+        <Caret Line="21" Column="19" TopLine="2"/>
+      </Position14>
+      <Position15>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="15" Column="8" TopLine="2"/>
+      </Position15>
+      <Position16>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="125" Column="3" TopLine="116"/>
+      </Position16>
+      <Position17>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="651" Column="15" TopLine="636"/>
+      </Position17>
+      <Position18>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="240" Column="64" TopLine="212"/>
+      </Position18>
+      <Position19>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="119" Column="3" TopLine="104"/>
+      </Position19>
+      <Position20>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="220" Column="3" TopLine="199"/>
+      </Position20>
+      <Position21>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="807" Column="13" TopLine="781"/>
+      </Position21>
+      <Position22>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="109" Column="98" TopLine="83"/>
+      </Position22>
+      <Position23>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="867" Column="2" TopLine="44"/>
+      </Position23>
+      <Position24>
+        <Filename Value="IntervalleBETA.lpr"/>
+        <Caret Line="191" Column="8" TopLine="70"/>
+      </Position24>
+      <Position25>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="157" Column="3" TopLine="142"/>
+      </Position25>
+      <Position26>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="865" Column="20" TopLine="851"/>
+      </Position26>
+      <Position27>
+        <Filename Value="unitintervalle.pas"/>
+        <Caret Line="900" Column="8" TopLine="872"/>
+      </Position27>
+      <Position28>
+        <Filename Value="IntervalleBETA.lpr"/>
+        <Caret Line="78" Column="72" TopLine="59"/>
+      </Position28>
+    </JumpHistory>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Parsing>
+      <SyntaxOptions>
+        <SyntaxMode Value="delphi"/>
+      </SyntaxOptions>
+    </Parsing>
+    <Other>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
